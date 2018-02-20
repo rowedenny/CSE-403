@@ -1,0 +1,15 @@
+[node1]
+host = 0.0.0.0
+port = 10001
+mod_value = 0
+
+[node2]
+host = 0.0.0.0
+port = 30001
+mod_value = 1
+
+
+[node3]
+host = 0.0.0.0
+port = 60001
+mod_value = 2
